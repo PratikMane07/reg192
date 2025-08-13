@@ -6,6 +6,11 @@ public class Test {
 	{
 		System.out.println("addition method");
 	}
+
+	public void m1()
+	{
+		
+	}
 	
 	
 }
